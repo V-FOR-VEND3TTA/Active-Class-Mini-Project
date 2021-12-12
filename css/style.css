@@ -32,3 +32,7 @@ ul li a {
     padding: 8px 15px;
 }
 
+ul li a.active {
+    background: #00b4de;
+    color: #fff;
+}
